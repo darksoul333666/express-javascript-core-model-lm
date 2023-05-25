@@ -7,6 +7,7 @@ require('dotenv').config();
 const connectDatabase = require('./database')
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+var chatRouter = require('./routes/chat');
 
 var app = express();
 
@@ -20,8 +21,27 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+
+const cors = require('cors');
+app.use(cors()); // Habilita el middleware cors
+// Middleware para manejar las solicitudes de tipo OPTIONS
+
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header(
+    'Access-Control-Allow-Headers',
+    'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method',
+  );
+  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
+  res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
+
+  next();
+});
+
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
+app.use('/chat', chatRouter );
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
