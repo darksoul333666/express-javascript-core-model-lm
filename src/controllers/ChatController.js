@@ -5,6 +5,7 @@ const Chat = async(req, res) => {
     try {
         const {input, idTemplate} = req.body;
         const response = await ChatCustomeable.ChatBot(input);
+        console.log(response);
         const question = {
             text: input,
             type: 'question'
@@ -13,10 +14,10 @@ const Chat = async(req, res) => {
             text: response,
             type: 'response'
         };
-       let chat = await ChatModel.findById(idTemplate);
-       const messages = [...chat.messages, question, response];
-       chat.messages = messages;
-       await chat.save();
+    //    let chat = await ChatModel.findById(idTemplate);
+    //    const messages = [...chat.messages, question, response];
+    //    chat.messages = messages;
+    //    await chat.save();
         res.json({
             success: true,
             message: 'response obtained',
