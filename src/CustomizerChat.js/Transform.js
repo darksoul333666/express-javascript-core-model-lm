@@ -4,22 +4,28 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
-const ChatBot = async(question) => {
-  let response;
-  try {
-     response = await openai.createCompletion({
-      model: "text-davinci-003",
-      prompt: question,
-      temperature: 0,
-      max_tokens: 1000,
-    });
-    console.log(response.data.choices[0].text);
-  } catch (error) {
-    console.log(error);
-  }
- 
-
-return response.data.choices[0].text;
+const ChatBot = (question) => {
+    return new Promise(async(resolve, reject) => {
+      let response;
+      try {
+        response = await openai.createCompletion({
+          model: "text-davinci-003",
+          prompt: question,
+          temperature: 1,
+          max_tokens: 1200,
+        });
+        if(response?.data?.choices?.length >0){
+          resolve(response.data.choices[0].text)
+        } else {
+          reject({error:true, code:404, reason:'NO SE ENCONTRÓ UNA RESPUESTA'})
+        }
+      } catch (error) {
+        reject({error:true, data:error})
+        reject({error:true, code:500, reason: 'ERROR DEL SERVIDOR'})
+      }
+    
+    })
+   
 }
 
 module.exports = {

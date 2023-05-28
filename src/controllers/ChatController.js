@@ -1,10 +1,24 @@
 const ChatCustomeable = require('../CustomizerChat.js/Transform');
-const ChatModel = require("../models/Chat");
+const {Templates, Personalities} = require('../utils/templates');
+
+const getConfigurations = (templateProfesion, templateStyle) => {
+    try {
+       return { descriptionProfesion: Templates[templateProfesion].preparation, 
+             descriptionStyle: Personalities[templateStyle].descripcion }
+    } catch (error) {
+        console.log(error);
+    }
+  
+}
 
 const Chat = async(req, res) => {
     try {
-        const {input, idTemplate} = req.body;
-        const response = await ChatCustomeable.ChatBot(input);
+        const {input, profesion, style } = req.body;
+        const {descriptionProfesion, descriptionStyle} =  getConfigurations(profesion, style );
+
+       const text = `Eres un ${profesion}: ${descriptionProfesion}, tienes un estilo de respuesta: ${style},  ${descriptionStyle}
+        Responde la siguiente pregunta: ${input}`;
+        const response = await ChatCustomeable.ChatBot(text);
         console.log(response);
         const question = {
             text: input,
@@ -14,10 +28,7 @@ const Chat = async(req, res) => {
             text: response,
             type: 'response'
         };
-    //    let chat = await ChatModel.findById(idTemplate);
-    //    const messages = [...chat.messages, question, response];
-    //    chat.messages = messages;
-    //    await chat.save();
+
         res.json({
             success: true,
             message: 'response obtained',
@@ -25,13 +36,19 @@ const Chat = async(req, res) => {
             data: response,
           });
     } catch (error) {
-        console.log(error);
-        res.status(500).json({
-            error: error,
+        if(error.data) console.log("sDASASA", error.data);
+
+        if(error?.code){
+              res.status(error.code).json({
+            error: true,
+            data:error.reason,
             message: 'The system cannot response, try later!',
             statusCode: 500,
             path: '/chat',
           });
+        }
+        console.log(error);
+      
     }
 }
 module.exports = {
