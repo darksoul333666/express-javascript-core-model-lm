@@ -9,9 +9,8 @@
   "scripts": {
     "start": "node ./bin/www",
     "star": "nodemon app.js",
-    "dev": "nodemon --watch src ./bin/www",
-    "install": "npm install --force"
-  },
+    "dev": "nodemon --watch src ./bin/www"
+    },
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
