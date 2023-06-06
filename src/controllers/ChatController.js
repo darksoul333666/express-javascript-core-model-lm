@@ -9,7 +9,7 @@ const configuration = new Configuration({
   });
   const openai = new OpenAIApi(configuration);
   
-const limit = 2500;
+const limit = 2000;
 const getQueries = (queries, p, o, s, q ) => {
     data = p + o + s + q;
     data2 = ''
