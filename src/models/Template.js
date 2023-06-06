@@ -4,10 +4,9 @@ const mongoose = require('mongoose');
 const TemplateSchema = new mongoose.Schema({
     name: String,
     avatar: String,
-    language: String,
+    description: String,
     style:String,
-    rol:String,
-    expressions: []
+    textTraining: String
 });
 
 module.exports = new mongoose.model('Template', TemplateSchema);

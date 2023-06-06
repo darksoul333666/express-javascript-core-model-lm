@@ -4,15 +4,17 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
+
 const ChatBot = (question) => {
     return new Promise(async(resolve, reject) => {
       let response;
+
       try {
         response = await openai.createCompletion({
           model: "text-davinci-003",
           prompt: question,
           temperature: 1,
-          max_tokens: 1200,
+          max_tokens: 1000,
         });
         if(response?.data?.choices?.length >0){
           resolve(response.data.choices[0].text)

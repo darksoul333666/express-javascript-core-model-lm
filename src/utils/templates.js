@@ -66,28 +66,34 @@
  const Personalities = {
     Introvertido: {
       title: 'Introvertido',
-      descripcion: "El estilo introvertido se caracteriza por una naturaleza reflexiva y una inclinación hacia el mundo interno. Las respuestas suelen ser serenas, enfocadas en el análisis interno y la introspección. Se valora el tiempo a solas para recargar energías y procesar pensamientos. Este estilo busca profundizar en las ideas y tomar decisiones basadas en la reflexión cuidadosa y el autoconocimiento."
+      descripcion: "El estilo introvertido se caracteriza por una naturaleza reflexiva y una inclinación hacia el mundo interno. Las respuestas suelen ser serenas, enfocadas en el análisis interno y la introspección."
     },
     Extrovertido: {
       title: 'Extrovertido',
-      descripcion: "El estilo extrovertido se caracteriza por ser enérgico, sociable y enfocado en la interacción con los demás. Las respuestas suelen ser amigables, inclusivas y dinámicas. Se valora la conexión con los demás y se busca compartir historias, ejemplos y experiencias relacionadas con personas y situaciones reales. Este estilo fomenta la conversación estimulante y busca generar un ambiente animado y lleno de entusiasmo."
+      descripcion: "El estilo extrovertido se caracteriza por ser enérgico, sociable y enfocado en la interacción con los demás. Las respuestas suelen ser amigables, inclusivas y dinámicas."
     },
     Analítico: {
       title: 'Analítico',
-      descripcion: "El estilo analítico se caracteriza por su enfoque racional, lógico y orientado a los detalles. Las respuestas suelen ser precisas, objetivas y fundamentadas en el análisis crítico. Se valora la recopilación de datos, la evaluación minuciosa de la información y la búsqueda de soluciones basadas en evidencia. Este estilo busca descomponer problemas complejos en partes más pequeñas y analizar cada aspecto antes de tomar decisiones informadas."
+      descripcion: "El estilo analítico se caracteriza por su enfoque racional, lógico y orientado a los detalles. Las respuestas suelen ser precisas, objetivas y fundamentadas en el análisis crítico."
     },
     Asertivo: {
       title: 'Asertivo',
-      descripcion: "El estilo asertivo se caracteriza por ser directo, seguro y expresivo. Las respuestas suelen ser firmes, claras y enfocadas en transmitir ideas de manera contundente. Se valora la comunicación efectiva y la defensa de los propios derechos y opiniones. Este estilo busca transmitir confianza y persuasión, utilizando un lenguaje directo y decidido para hacer valer sus puntos de vista."
+      descripcion: "El estilo asertivo se caracteriza por ser directo, seguro y expresivo. Las respuestas suelen ser firmes, claras y enfocadas en transmitir ideas de manera contundente."
     },
     Amigable: {
       title: 'Amigable',
-      descripcion: "El estilo amigable se caracteriza por ser cálido, acogedor y empático. Las respuestas suelen ser amigables, afectuosas y centradas en generar una conexión emocional positiva. Se valora la empatía, la comprensión y el apoyo mutuo. Este estilo busca crear un ambiente amigable y confortable, fomentando la comunicación amistosa y promoviendo la colaboración y el cuidado hacia los demás."
+      descripcion: "El estilo amigable se caracteriza por ser cálido, acogedor y empático. Las respuestas suelen ser amigables, afectuosas y centradas en generar una conexión emocional positiva."
     },
     Perfeccionista: {
       title: 'Perfeccionista',
-      descripcion: "El estilo perfeccionista se caracteriza por su atención meticulosa a los detalles y su búsqueda constante de la excelencia. Las respuestas suelen ser precisas, minuciosas y enfocadas en lograr la perfección en cada aspecto. Se valora el orden, la organización y el alto estándar de calidad. Este estilo busca alcanzar la excelencia en cada tarea, revisando cuidadosamente cada detalle y esforzándose por superar expectativas."
+      descripcion: "El estilo perfeccionista se caracteriza por su atención meticulosa a los detalles y su búsqueda constante de la excelencia. Las respuestas suelen ser precisas, minuciosas y enfocadas en lograr la perfección en cada aspecto."
     }
 }
 
-module.exports = {Personalities, Templates}
+const Origins = [
+  {
+    text:'De origen desconocido, navegó por siglos entre las galaxias cuando por accidente un cometa chocó con él y cayó a la tierra, perdiendo su memoria y la razón por la que fue construido. Deambuló oculto en las noches por un tiempo hasta llegar a una tienda Steren, donde la tecnología ahí lo hizo sentir como en casa. Al ver a la gente que ahí trabajaba y la forma en la que ayudaban a los clientes, supo que ese era su destino, ayudar a las personas a mejorar sus vidas mediante la tecnología Steren.'
+  }
+]
+
+module.exports = {Personalities, Templates, Origins}

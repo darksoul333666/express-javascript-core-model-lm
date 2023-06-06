@@ -8,7 +8,7 @@ const connectDatabase = require('./database')
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var chatRouter = require('./routes/chat');
-
+var templateRouter = require('./routes/template')
 var app = express();
 
 // view engine setup
@@ -41,6 +41,7 @@ app.use((req, res, next) => {
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/chat', chatRouter );
+app.use('/template', templateRouter );
 
 
 // catch 404 and forward to error handler
