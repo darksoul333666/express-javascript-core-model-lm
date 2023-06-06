@@ -46,7 +46,7 @@ const Chat = async(req, res) => {
         let text = '';
         let response;
         if(idTemplate !== undefined)  {
-            const query = await axios.post('http://192.168.1.230:8000/query',{
+            const query = await axios.post('https://api-retrieval.herokuapp.com/query',{
                 queries: [{
                     "query": input,
                     "top_k": "5"
