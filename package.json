@@ -8,7 +8,7 @@
     "npm": "6.14.15"
   },
   "scripts": {
-    "start": "node app.mjs",
+    "start": "node ./bin/www.mjs",
     "dev": "nodemon --watch src --exec babel-node ./bin/www.mjs"
   },
   "dependencies": {
