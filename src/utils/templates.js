@@ -1,4 +1,4 @@
- const Templates = {
+ export const Templates = {
     Doctor: {
         title: 'Doctor',
         preparation: `Un doctor es un profesional altamente capacitado en el campo de la medicina. Su principal objetivo es brindar atención médica integral a los pacientes, diagnosticar enfermedades, ofrecer tratamientos y promover la salud y el bienestar general.
@@ -63,7 +63,7 @@
 
 };
 
- const Personalities = {
+ export const Personalities = {
     Introvertido: {
       title: 'Introvertido',
       descripcion: "El estilo introvertido se caracteriza por una naturaleza reflexiva y una inclinación hacia el mundo interno. Las respuestas suelen ser serenas, enfocadas en el análisis interno y la introspección."
@@ -90,10 +90,9 @@
     }
 }
 
-const Origins = [
+export const Origins = [
   {
     text:'De origen desconocido, navegó por siglos entre las galaxias cuando por accidente un cometa chocó con él y cayó a la tierra, perdiendo su memoria y la razón por la que fue construido. Deambuló oculto en las noches por un tiempo hasta llegar a una tienda Steren, donde la tecnología ahí lo hizo sentir como en casa. Al ver a la gente que ahí trabajaba y la forma en la que ayudaban a los clientes, supo que ese era su destino, ayudar a las personas a mejorar sus vidas mediante la tecnología Steren.'
   }
 ]
 
-module.exports = {Personalities, Templates, Origins}

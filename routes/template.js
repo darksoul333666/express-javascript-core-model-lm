@@ -1,9 +1,10 @@
-const express = require('express');
+import express from 'express';
+import { CreateTemplate, GetTemplatesList } from '../src/controllers/TemplateController.js';
+
 const router = express.Router();
-const TemplateController = require('../src/controllers/TemplateController')
 
 /* GET users listing. */
-router.post('/create', TemplateController.CreateTemplate);
-router.get('/get', TemplateController.GetTemplatesList);
+router.post('/create', CreateTemplate);
+router.get('/get', GetTemplatesList);
 
-module.exports = router;
+export default router;

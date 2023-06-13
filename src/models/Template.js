@@ -1,13 +1,12 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 // Definir el esquema del modelo
 const TemplateSchema = new mongoose.Schema({
-    name: String,
-    avatar: String,
-    description: String,
-    style:String,
-    textTraining: String
+  name: String,
+  avatar: String,
+  description: String,
+  style: String,
+  textTraining: String
 });
 
-module.exports = new mongoose.model('Template', TemplateSchema);
-
+export default mongoose.model('Template', TemplateSchema);

@@ -1,0 +1,698 @@
+Sku: 200-149
+Producto: Conector macho tipo BNC de apretar para RG6
+Descripcion: Conector macho (plug) tipo BNC de apretar, para cable coaxial RG6.
+
+
+Sku: 200-155
+Producto: Adaptador BNC en T de 1 macho a 2 hembras
+Descripcion: Adaptador en T, con un conector macho (plug) a 2 hembras tipo BNC.
+
+
+Sku: 200-160
+Producto: Cople jack a jack para conectores BNC
+Descripcion: Cople o barril de unión para unir conectores macho (plug) tipo BNC.
+
+
+Sku: 200-161
+Producto: Conector macho BNC tipo PermaSeal-II™ para cable RG6
+Descripcion: Conector macho (plug) BNC de compresión tipo PermaSeal-II*, para cable RG6. Cuenta con 6 anillos de colores (azul, amarillo, verde, rojo, blanco y negro), para identificar diferentes conexiones
+
+
+Sku: 200-163
+Producto: Conector macho BNC tipo PermaSeal-II™ para cable mini RG59
+Descripcion: Conector macho (plug) BNC de compresión tipo PermaSeal-II™, para cable mini coaxial RG59. Cuenta con 6 anillos de colores (azul, amarillo, verde, rojo, blanco y negro), para identificar diferentes conexiones
+
+
+Sku: 200-166
+Producto: Conector macho BNC PermaSeal, para cable coaxial RG59
+Descripcion: Con este conector macho BNC tipo PermaSeal*, tendrás acabados profesionales y de alta calidad en todas tus instalaciones, incorpora un nuevo diseño interno para mejor rendimiento RF (radio frecuencia), diseñado para cable coaxial tipo RG59.Está fabricado con recubrimiento en zinc para resistencia superior a la oxidación, con acabado niquelado y sello posterior que inhibe la humedad con plástico de alta resistencia.
+
+
+Sku: 200-170
+Producto: Adaptador con conector hembra BNC a macho RCA
+Descripcion: Adaptador con conector hembra (jack) BNC a macho (plug) RCA, con acabado niquelado.
+
+
+Sku: 200-173
+Producto: Adaptador con conector hembra RCA a macho BNC
+Descripcion: Adaptador con conector hembra (jack) RCA a macho (plug) BNC, con acabado niquelado.
+
+
+Sku: 200-186
+Producto: Conector macho UHF de soldar, para cable RG58 o RG59
+Descripcion: Conector macho (plug) tipo UHF de soldar, para cable coaxial RG58 o RG59.
+
+
+Sku: 200-190
+Producto: Conector hembra UHF para chasis
+Descripcion: Conector hembra (jack) tipo UHF, para fijar en chasis.
+
+
+Sku: 200-192
+Producto: Conector macho UHF de soldar, para cable RG8, 58 ó 59
+Descripcion: Conector macho (plug) tipo UHF de soldar, para cable coaxial RG8, RG58 o RG59.
+
+
+Sku: 200-193
+Producto: Conector macho UHF de apretar, para RG58 o RG59
+Descripcion: Conector macho (plug) tipo UHF de apretar, con anillo, para cable coaxial RG58 o RG59.
+
+
+Sku: 200-198
+Producto: Barril de unión para conectores UHF
+Descripcion: Barril (cople) para unir conectores macho (plug) tipo UHF.
+
+
+Sku: 200-199
+Producto: Adaptador UHF en T de 1 macho a 2 hembras
+Descripcion: Adaptador en T, con un conector macho (plug) a 2 hembras (jack) tipo UHF.
+
+
+Sku: 200-202
+Producto: Divisor de 2 salidas, de 75 Ohms
+Descripcion: Divisor (splitter) de 2 salidas, de 75 Ohms, para señal VHF, UHF y FM de 5 a 900 MHz, metálico, con caja sellada y acabado anticorrosivo. Util para separar señales provenientes de una sola fuente de video. Divide en dos la señal proveniente de una fuente de video como antenas, televisión satelital o de cable, videocasseteras, DVD* y más.
+
+
+Sku: 200-203
+Producto: Divisor de 3 salidas, de 75 Ohms
+Descripcion: Divisor (splitter) de 3 salidas, de 75 Ohms, para señal VHF, UHF y FM de 5 a 900 MHz, metálico, con caja sellada y acabado anticorrosivo. Divide en tres la señal proveniente de una fuente de video como antenas, televisión satelital o de cable, videocasseteras, DVD* y más.
+
+
+Sku: 200-204
+Producto: Divisor de 4 salidas, de 75 Ohms
+Descripcion: Divisor (splitter) de 4 salidas, de 75 Ohms, para señal VHF, UHF y FM de 5 a 900 MHz, metálico, con caja sellada y acabado anticorrosivo. Divide en cuatro la señal proveniente de una fuente de video como antenas, televisión satelital o de cable, videocasseteras, DVD* y más.
+
+
+Sku: 200-206
+Producto: Divisor de 6 salidas, de 75 Ohms
+Descripcion: Divisor (splitter) de 6 salidas, de 75 Ohms, para señal VHF, UHF y FM de 5 a 900 MHz, metálico, con caja sellada y acabado anticorrosivo. Divide en seis la señal proveniente de una fuente de video como antenas, televisión satelital o de cable, videocasseteras, DVD* y más.
+
+
+Sku: 200-208
+Producto: Divisor de 8 salidas, de 75 Ohms
+Descripcion: Divisor (splitter) de 8 salidas, de 75 Ohms, para señal VHF, UHF y FM de 5 a 900 MHz, metálico, con caja sellada y acabado anticorrosivo. Divide en ocho la señal proveniente de una fuente de video como antenas, televisión satelital o de cable, videocasseteras, DVD y más.
+
+
+Sku: 200-251
+Producto: Placa de pared con hembra tipo F de 75 Ohms
+Descripcion: Placa de pared, con una salida para cable coaxial con conector hembra (jack) tipo F de 75 Ohms. Fabricada en plástico color marfil.
+
+
+Sku: 200-255
+Producto: Placa de pared con cople HDMI jack a jack
+Descripcion: Con esta placa estiliza las conexiones de equipos digitales HDMI, en salas de proyección, salones de clases, salas de juntas y más.
+Es compatible con cualquier chalupa estándar. Incorpora cople HDMI, esto quiere decir que tiene conexión jack por ambos lados.
+La placa es de plástico resistente e incluye los tornillos necesarios para su fijación.
+Te sugerimos que la distancia máxima de los cables HDMI a usar sean de hasta 15 metros con calibre 24 AWG o 7 metros con calibre 28 AWG. En caso de necesitar hacer conexiones a mayor distancia, puedes usar el amplificador HDMI.
+
+
+Sku: 200-256
+Producto: Placa de pared con conector HDMI®hembra (jack) y tipo F
+Descripcion: Placa de pared con conector que incorpora tecnología HDMI®hembra (jack) y conector tipo F. Se utiliza en salas de TV, estudios o salas de proyección para mantener la estética del lugar impecable y con conexiones de fácil acceso.Steren te sugiere que la distancia máxima de los cables HDMI® a usar sea de 15 m con cables calibre 24 AWG y 7 m con cables calibre 28 AWG. En caso de necesitar hacer conexiones a mayor distancia, puedes usar el amplificador HDMI® 208-180.HDMI, the HDMI logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.
+
+
+Sku: 200-257
+Producto: Placa de pared con conectores hembra (jack) HDMI® y RCA Audio/Video
+Descripcion: Placa de pared con conector que incorpora HDMI®hembra a hembra(cople) y conectores RCA de audio y  video. Se utiliza en salas de TV, estudios o salas de proyección para mantener la estética del lugar impecable y con conexiones de fácil acceso.Steren te sugiere que la distancia máxima de los cables HDMI® a usar sea de 15 m con cables calibre 24 AWG y 7 m con cables calibre 28 AWG. En caso de necesitar hacer conexiones a mayor distancia, puedes usar el amplificador HDMI® 208-180.HDMI, the HDMI logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.
+
+
+Sku: 200-271
+Producto: Barril de unión sencillo con abrazadera y tierra
+Descripcion: Barril de unión sencillo (cople) con abrazadera, tornillos y conexión a tierra, para unir cable coaxial con conectores tipo F de 75 Ohms. Es metálico y se utiliza frecuentemente en exteriores, fijado sobre paredes, bases de madera o mástiles de antena.
+
+
+Sku: 200-272
+Producto: Barril de unión doble con abrazadera y tierra
+Descripcion: Barril de unión doble (cople) con abrazadera, tornillos y conexión a tierra, para unir cable coaxial con conectores tipo F de 75 Ohms. Es metálico y se utiliza frecuentemente en exteriores, fijado sobre paredes, bases de madera o mástiles de antena.
+
+
+Sku: 200-310
+Producto: Switch AB con palanca de 2 entradas a 1 salida, con conectores tipo F
+Descripcion: Selector con palanca deslizable (switch AB) de 2 entradas a 1 salida, con conectores tipo F para cable coaxial, de 75 Ohms. Mide 7 x 7,5 x 1,9 cm y esta fabricado en acero.
+
+
+Sku: 200-315
+Producto: Switch AB con botones, de 2 entradas a 1 salida, con conectores tipo F
+Descripcion: Selector con botones de presión (switch AB) de 2 entradas a 1 salida, con conectores tipo F para cable coaxial, de 75 Ohms. Mide 7 x 9,3 x 2,3 cm y esta fabricado en plástico.
+
+
+Sku: 200-345
+Producto: SWITCH ABC 3 ENT 1SALIDA DE 75 OHMS DE PUSH
+Descripcion: Selector con botones de presion (Switch ABC) de 3 entradas a 1 salida, con conectores tipo F para cable coaxial de 75 Ohms, de plástico.
+
+
+Sku: 200-350
+Producto: Switch ABC de 3 entradas a 1 salida, con conectores RCA
+Descripcion: Selector (switch) de 3 entradas a 1 salida, con conectores RCA para Audio/Video. Se utiliza para conectar 3 equipos con salida de Audio/Video (DVD, videocassetteras, video juegos, etc) a la televisión, sin necesidad de estar conectando y desconectando cables. Mide 21 x 3 x 7,4 cm y esta fabricado en plástico color negro.
+
+
+Sku: 200-355
+Producto: Switch AB de 2 entradas a 1 salida, con conectores RCA
+Descripcion: Selector (switch) de 2 entradas a 1 salida, con conectores RCA para Audio/Video. Se utiliza para conectar 2 equipos con salida de Audio/Video (DVD, videocassetteras, video juegos, etc) a la televisión, sin necesidad de estar conectando y desconectando cables. Mide 13,5 x 3,5 x 5,2 cm y esta fabricado en plástico color negro.
+
+
+Sku: 200-360
+Producto: Switch ABCD de 4 entradas a 1 salida, con conectores RCA y S-Video
+Descripcion: Selector (switch) ABCD de 4 entradas a 1 salida de RCA y S-Video. Incluye también la función de convertir las señales de entrada y salida de Audio/Video y S-Video. Se utiliza para conectar varios equipos que tienen salida de Audio/Video y S-Video (DVD, TV de satélite, videocassetteras, video juegos, etc) a una televisión, sin necesidad de estar conectando y desconectando cables. Mide 20 x 4,5 x 11 cm y esta fabricado en plástico color negro.
+
+
+Sku: 200-365
+Producto: Switch ABCD de audio y video, con conectores RCA y S-Video
+Descripcion: Selector (switch) ABCD de 4 entradas y una salida con conectores RCA* y S-Video. Es perfecto para conectar todos tus equipos de video, como reproductores de DVD*,  Blu-Ray*, videojuegos o decodificadores, a un televisor que tenga una sola entrada de video, sin que tengas que conectar y desconectar cables. Simplemente presiona el botón del equipo que quieras ver para seleccionarlo y puedes cambiarlo en cualquier momento para elegir otro dispositivo de video. Además tiene una salida de audio adicional para conectar un estéreo o teatro en casa y escuchar el audio en las bocinas de estos equipos.
+
+
+Sku: 200-380
+Producto: Switch ABCD de 4 entradas a 1 salida, con conectores RCA y S-Video, con control remoto
+Descripcion: Selector (switch) ABCD de 4 entradas a 1 salida de RCA y S-Video, con control remoto. Se utiliza para conectar varios equipos que tienen salida de Audio/Video y S-Video (DVD, TV de satélite, videocassetteras, video juegos, etc) a una televisión, sin necesidad de estar conectando y desconectando cables, manejándose cómodamente a través de su control remoto.
+
+
+Sku: 200-383
+Producto: Selector HDMI* semi automático de 3 entradas
+Descripcion: ¡Multiplica por 3 una entrada HDMI* en tu pantalla!
+Con este selector (switch) conecta hasta 3 diferentes equipos a una sola entrada HDMI* de tu pantalla.
+Es ideal si tienes varios aparatos y no deseas conectarlos o desconectarlos cada vez que los utilices.
+Puedes seleccionar cualquiera de sus tres entradas, al presionar un botón o con solo encender el dispositivo que quieras utilizar, ya que toma la señal del último equipo HDMI que pongas en funcionamiento. Además, no requiere alimentación externa para su funcionamiento.
+Soporta resoluciones hasta 4K 60 Hz y HDCP para la transmisión aun cuando el contenido esté protegido.
+Está fabricado con plástico de color negro. Es compacto y ligero; su instalación es discreta, ya que ocupa poco espacio.
+
+
+Sku: 200-384
+Producto: Selector HDMI® de 4 entradas
+Descripcion: Selector con conectores que incorporan tecnología HDMI® de 4 entradas (derivador HDMI) y control remoto, para que puedas conectar aparatos como Videojuegos, Blu-ray o  computadoras  a una sola entrada HDMI® de tu pantalla y verlos cuando quieras con sólo oprimir un botón y sin tener que conectar y desconectar cables. Soporta resoluciones de 480i, 576i, 480p, 576p, 720p, 1080i y 1080p y soporta equipos 3D en alta definición.HDMI, the HDMI logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.
+
+
+Sku: 200-386
+Producto: Selector manual HDMI de 4 entradas a una salida
+Descripcion: Selector manual de 4 entradas a 1 salida para conexiones de Audio/Video digital en alta definición (HDMI). Se utiliza para conectar hasta 4 equipos que tienen salida HDMI (consolas de video juego de última generación, receptores de satélite, DVD de alta definición, cámaras de video, etc) a una televisión, sin necesidad de estar conectando y desconectando cables.
+
+
+Sku: 200-490
+Producto: Acoplador de 300 a 75 Ohms con capuchón, para exteriores (balun)
+Descripcion: Transformador de impedancia (matching) de 300 a 75 Ohms, con ancho de banda de 5 a 900 MHz para VHF, UHF y FM, con balun y capuchón. Puede utilizarse en exteriores.
+
+
+Sku: 200-500
+Producto: Acoplador de 75 a 300 Ohms para interiores (balun)
+Descripcion: Transformador de impedancia (matching) de 75 a 300 Ohms, con ancho de banda de 5 a 900 MHz para VHF, UHF y FM, con balun. Uso en interiores.
+
+
+Sku: 200-510
+Producto: Acoplador de 300 a 75 Ohms, para interiores
+Descripcion: Transformador de impedancia de 300 a 75 Ohms (zapatito), con ancho de banda de 5 a 900 MHz para VHF, UHF y FM, con balum, para uso en interiores.
+
+
+Sku: 200-515
+Producto: Acoplador de 300 a 75 Ohms con plug de 3,5 mm
+Descripcion: Transformador de impedancia de 300 a 75 Ohms, con conector macho (plug) de 3,5 mm, ancho de banda de 5 a 900 MHz para VHF, UHF y FM, con balum, para televisiones portátiles.
+
+
+Sku: 200-635
+Producto: Separador de 3 bandas (VHF, UHF y FM), de 300 Ohms
+Descripcion: Separador de 3 bandas, con entrada de 75 Ohms y 3 salidas de 300 Ohms para VHF, UHF y FM. Se utiliza para conectar a la antena aérea televisiones antiguas y modulares.
+
+
+Sku: 200-720
+Producto: Conector macho serie N, para cable RG8, 11, 213 y 214
+Descripcion: Conector macho (plug) serie N, de apretar, para cable coaxial RG8, RG11, RG213 y RG214.
+
+
+Sku: 200-734
+Producto: Barril de unión para conectores serie N
+Descripcion: Barril de unión (cople), para conectores macho (plug) tipo N.
+
+
+Sku: 200-800
+Producto: Conector N-K macho para cable RG58
+Descripcion: Conector macho tipo N-K de apretar  para cable RG58. Tiene una impedancia de 50 Ohms.
+
+
+Sku: 200-803
+Producto: Conector macho mini UHF de apretar, para cable RG58
+Descripcion: Conector macho (plug) UHF miniatura, para presionar cable RG58.
+
+
+Sku: 200-820
+Producto: Barril de unión para mini UHF
+Descripcion: Barril de unión (cople), para conectores macho (plug) UHF miniatura.
+
+
+Sku: 200-955B
+Producto: Grapa para cable coaxial RG59, blanca
+Descripcion: Grapa color blanco, para cable coaxial RG59, es de 5 mm de ancho, con clavo de 3/4 de pulgada (1,8 cm), para concreto.
+
+
+Sku: 200-955N
+Producto: Grapa para cable coaxial RG59, negra
+Descripcion: Grapa color negro, para cable coaxial RG59, es de 5 mm de ancho, con clavo de 3/4 de pulgada (1,8 cm), para concreto.
+
+
+Sku: 200-956N
+Producto: Grapa autoadherible sujeta cable, color negro, para cable coaxial
+Descripcion: Grapa autoadherible sujeta cable para cable coaxial RG6 y RG59. Se utilizan para organizar los cables coaxiales que bajan de nuestra antena aérea o de los sistemas te TV de paga, sin necesidad de clavar o perforar nuestra pared y también se usan en stands o lugares donde las paredes son tipo panel.
+
+
+Sku: 200-960B
+Producto: Grapa para cable coaxial RG6, blanca
+Descripcion: Grapa para cable coaxial RG6 con clavo para concreto de 1 pulgada (2,5cm)
+
+
+Sku: 200-960N
+Producto: Grapa para cable coaxial RG6, negra
+Descripcion: Grapa color negro, para cable coaxial RG6, es de 7 mm de ancho, con clavo de 1 pulgada (2,5 cm), para concreto.
+
+
+Sku: 200-962N
+Producto: Grapa dual para cable coaxial RG6
+Descripcion: Grapa dual color negro, para cable coaxial RG6, es de 1,4 m de ancho, con clavo de 1 pulgada (2,5 cm).
+
+
+Sku: 200-974NE
+Producto: Capuchón contra agua, de hule para RG6 y RG59
+Descripcion: Capuchon de hule contra agua para cable coaxial RG6 y RG59, con diámetro interno ahusado para un mejor ajuste, fabricado en caucho color negro
+
+
+Sku: 200-986
+Producto: Pasa cable de plástico color beige para muro, para cable RG6
+Descripcion: Pasa cable para muro (bushing), para cable RG6, construido en resistente plástico ABS, asegura y protege el cable al pasar por el muro. Color beige
+
+
+Sku: 200-986NE
+Producto: Pasa cable de plástico color negro para muro, para cable RG6
+Descripcion: Pasa cable para muro (bushing), para cable RG6, construido en resistente plástico ABS, asegura y protege el cable al pasar por el muro. Color negro.
+
+
+Sku: 200-988
+Producto: Pasa cable doble de plástico color beige para muro, para cable RG6
+Descripcion: Pasa cable deble para muro (bushing), para cable RG6, construido en resistente plástico ABS, asegura y protege el cable al pasar por el muro. Color beige.
+
+
+Sku: 200-988NE
+Producto: Pasa cable doble de plástico color negro para muro, para cable RG6
+Descripcion: Pasa cable deble para muro (bushing), para cable RG6, construido en resistente plástico ABS, asegura y protege el cable al pasar por el muro. Color negro.
+
+
+Sku: 201-202
+Producto: Divisor de 2 salidas, de 75 Ohms, 1 GHz, 90 dB
+Descripcion: Divisor (Splitter) de alto rendimiento, con 2 salidas de 75 Ohms para señal de televisión, cable o satélite, de 1 GHz, escudo de 90 dB para RFI (Interferencia de Radio Frecuencia) caja de aleación de Zinc sellada con resina epóxica, acabado en cromo anticorrosivo, con pérdida de inserción de 3,4 a 4,4 dB, aislamiento de puertos de 21 a 24 dB y pérdida-retorno de 15 a 18 dB.
+
+
+Sku: 201-203
+Producto: Divisor de 3 salidas, de 75 Ohms, 1 GHz, 90 dB
+Descripcion: Divisor (Splitter) de alto rendimiento, con 3 salidas de 75 Ohms para señal de televisión, cable o satélite, de 1 GHz, escudo de 90 dB para RFI (Interferencia de Radio Frecuencia) caja de aleación de Zinc sellada con resina epóxica, acabado en cromo anticorrosivo, con pérdida de inserción en un puerto de 3,5 a 4,5 dB y de 6,8 a 8,2 en los dos restantes, aislamiento de puertos de 20 a 25 dB y pérdida-retorno de 15 a 18 dB.
+
+
+Sku: 201-204
+Producto: Divisor de 4 salidas, de 75 Ohms, 1 GHz, 90 dB
+Descripcion: Divisor (Splitter) de alto rendimiento, con 4 salidas de 75 Ohms para señal de televisión, cable o satélite, de 1 GHz, escudo de 90 dB para RFI (Interferencia de Radio Frecuencia) caja de aleación de Zinc sellada con resina epóxica, acabado en cromo anticorrosivo, con pérdida de inserción de 6,8 a 8,2 dB, aislamiento de puertos de 20 a 25 dB y pérdida-retorno de 15 a 18 dB.
+
+
+Sku: 201-232
+Producto: Divisor de 2 salidas, de 75 Ohms, 2 GHz, 90 dB
+Descripcion: Divisor (Splitter) de alta frecuencia, de una entrada y dos salidas, con excelente blindaje contra interferencia de radiofrecuencia (90 dB RFI). Sus características son: 75 Ohms, pérdida por inserción de 3,4 a 5,5 dB, aislamiento entre puertos de 11 a 15 dB, caja con aleación de Zinc de larga duración y acabado anticorrosivo, paso de voltaje en uno de los puertos y frecuencia de operación de 40 a 2050 MHz. Se utiliza en la distribución de señales de satélite.
+
+
+Sku: 201-234
+Producto: Divisor de 4 salidas, de 75 Ohms, 2 GHz, 90 dB
+Descripcion: Divisor (Splitter) de alta frecuencia, de una entrada y cuatro salidas, con excelente blindaje contra interferencia de radiofrecuencia (90 dB RFI). Sus características son: 75 Ohms, pérdida por inserción de 3,4 a 5,5 dB, aislamiento entre puertos de 11 a 15 dB, caja con aleación de Zinc de larga duración y acabado anticorrosivo, paso de voltaje en uno de los puertos y frecuencia de operación de 40 a 2050 MHz. Se utiliza en la distribución de señales de satélite.
+
+
+Sku: 201-242
+Producto: Divisor de 2 salidas, de 75 Ohms, 2 GHz, 90 dB, pasivo
+Descripcion: Divisor (Splitter) de alta frecuencia, de una entrada y dos salidas, con excelente blindaje contra interferencia de radiofrecuencia (90 dB RFI). Sus características son: 75 Ohms, pérdida por inserción de 3,4 a 5,5 dB, aislamiento entre puertos de 11 a 15 dB, caja con aleación de Zinc de larga duración y acabado anticorrosivo, paso de voltaje en todos los puertos y frecuencia de operación de 40 a 2050 MHz. Se utiliza en la distribución de  señales de satélite.
+
+
+Sku: 201-244
+Producto: Divisor de 4 salidas, de 75 Ohms, 2 GHz, 90 dB, pasivo
+Descripcion: Divisor (Splitter) de alta frecuencia, de una entrada y cuatro salidas, con excelente blindaje contra interferencia de radiofrecuencia (90 dB RFI). Sus características son: 75 Ohms, pérdida por inserción de 3,4 a 5,5 dB, aislamiento entre puertos de 11 a 15 dB, caja con aleación de Zinc de larga duración y acabado anticorrosivo, paso de voltaje en todos los puertos y frecuencia de operación de 40 a 2050 MHz. Se utiliza en la distribución de señales de satélite.
+
+
+Sku: 201-252
+Producto: Diplexor-mezclador para satélite, de 40 a 2050 MHz
+Descripcion: Diplexor-mezclador para señal de satélite. Separa o combina la señal de la antena aérea con la de satélite de o hacia una sola linea de alimentación, de 40 a 2,050 MHz, pérdida por inserción en VHF-UHF de 0,5 dB/satélite 1,5 dB; aislamiento VHF 25 dB/UHF 20 dB/satélite 23 dB.
+
+
+Sku: 201-306
+Producto: Acoplador direccional tipo T, de 1 GHz, 6 dB
+Descripcion: Acoplador direccional de 1 GHz, 6 dB, alto aislamiento de señal reflejada, tipo T, de 5 a 1 000 MHz, 75 Ohms, 90 dB mínimo, escudo de RFI, 2 vías, caja de aleación de Zinc cromada anticorrosión, sellada con resina epóxica, conectores tipo F roscados, maquinados a precisión.
+
+
+Sku: 201-309
+Producto: Acoplador direccional tipo T, de 1 GHz, 9 dB
+Descripcion: Acoplador direccional de 1 GHz, 9 dB, alto aislamiento de señal reflejada, tipo T, de 5 a 1 000 MHz, 75 Ohms, 90 dB mínimo, escudo de RFI, 2 vías, caja de aleación de Zinc cromada anticorrosión, sellada con resina epóxica, conectores tipo F roscados, maquinados a precisión.
+
+
+Sku: 201-312
+Producto: Acoplador direccional tipo T, de 1 GHz, 12 dB
+Descripcion: Acoplador direccional de 1 GHz, 12 dB, alto aislamiento de señal reflejada, tipo T, de 5 a 1 000 MHz, 75 Ohms, 90 dB mínimo, escudo de RFI, 2 vias, caja de aleacion de Zinc cromada anticorrosion, sellada con resina epóxica, conectores tipo F roscados, maquinados a precisión.
+
+
+Sku: 201-316
+Producto: Acoplador direccional tipo T, de 1 GHz, 16 dB
+Descripcion: Acoplador direccional de 1 GHz, 16 dB, alto aislamiento de señal reflejada, tipo T, de 5 a 1 000 MHz, 75 Ohms, 90 dB minimo, escudo de RFI, 2 vías, caja de aleación de Zinc cromada anticorrosión, sellada con resina epóxica, conectores tipo F roscados, maquinados a precisión.
+
+
+Sku: 201-503
+Producto: Atenuador en línea, con paso de voltaje, de 3 dB
+Descripcion: Atenuador en línea de 3 dB, de hembra (jack) a macho (plug) de 0 a 1 750 MHz, de cerámica monolítica, construido en latón maquinado, recubierto de nikel, centro de acero de calibre 22 AWG, tolerancia de 5 % pérdida por retorno de 20 dB típica.
+
+
+Sku: 201-508
+Producto: ATENUADOR EN LINEA DE 8 DB DE 0 A 1750 MHZ
+Descripcion: Cojin atenuador en línea de 8 dB de hembra a macho de 0 a 1750 MHz, de ceramica monolitica, construido en laton maquinado, recubierto de nikel, centro de acero de calibre 22 AWG, tolerancia de 5 % perdida por retorno de 20 dB tipica.
+
+
+Sku: 201-512
+Producto: ATENUADOR EN LINEA DE 12 DB DE 0 A 1750 MHZ
+Descripcion: Cojin atenuador en línea de 12 dB de hembra a macho de 0 a 1750 MHz, de ceramica monolitica, construido en laton maquinado, recubierto de nikel, centro de acero de calibre 22 AWG, tolerancia de 5 % perdida por retorno de 20 dB tipica.
+
+
+Sku: 201-520
+Producto: Atenuador en línea, de 20 dB, 0 a 1750 MHz
+Descripcion: Atenuador en línea de 20 dB, de hembra (jack) a macho (plug), de 0 a 1750 MHz, de cerámica monolítica, construido en latón maquinado, recubierto de nikel, centro de acero de calibre 22 AWG, tolerancia de 5 % pérdida por retorno de 20 dB típica.
+
+
+Sku: 201-604
+Producto: Separador combinador de señal UHF-VHF
+Descripcion: Separador combinador de banda VHF-UHF de mínimo rechazo, 23 dB VHF, 30 dB UHF, 75 Ohms, baja perdida por inserción 0,5 dB máximo.
+
+
+Sku: 201-738
+Producto: Multiswitch de 3 x 8 para señal de satélite
+Descripcion: Multi-interruptor de 3 x 8 para señal de satélite, adecuado para DSS, banda C o banda KU. Sirve para instalar 2 entradas de satélite LNB y antena aérea de 4 u 8 receptores de satélite, enruta cualquier entrada a cualquier salida, pérdida por insersión -18 dB y requiere de alimentación de 18 Vcc a 500 mA.
+
+
+Sku: 202-202
+Producto: Divisor de 2 salidas a 75 Ohms, 1 GHz
+Descripcion: Divisor (Splitter) de alto rendimiento, con paso de voltaje por todos los puertos y 2 salidas de 1 GHz a 75 Ohms, para señal de televisión o cable. Cuenta con caja soldada de aleación de zinc terminada en cromo anticorrosivo, que proporciona un escudo contra interferencia electromagnética de 130 dB (EMI),  pérdida por inserción de 3,6 a 4,2 dB y aislamiento de puertos de 25 a 28 dB.
+
+
+Sku: 202-203
+Producto: Divisor de 3 salidas a 75 Ohms, 1 GHz
+Descripcion: Divisor (Splitter) de alto rendimiento, con paso de voltaje por todos los puertos y 3 salidas de 1 GHz a 75 Ohms, para señal de televisión o cable. Cuenta con caja soldada de aleación de zinc terminada en cromo anticorrosivo, que proporciona un escudo contra interferencia electromagnética de 130 dB (EMI),  pérdida por inserción en un puerto de 3,6 a 4,2 dB y de 7 a 8 dB en los dos restantes, aislamiento de puertos de 25 a 28 dB.
+
+
+Sku: 202-204
+Producto: Divisor de 4 salidas a 75 Ohms, 1 GHz
+Descripcion: Divisor (Splitter) de alto rendimiento, con paso de voltaje por todos los puertos y 4 salidas de 1 GHz a 75 Ohms para señal de televisión o cable. Cuenta con caja soldada de aleación de zinc terminada en cromo anticorrosivo, que proporciona un escudo contra interferencia electromagnética de 130 dB (EMI),  pérdida por inserción de 7 a 8,2 dB y aislamiento de puertos de 25 a 28 dB.
+
+
+Sku: 203-010
+Producto: Juego de dos conectores macho tipo F (campanita) para cable RG59
+Descripcion: Juego de dos conectores macho (plug) tipo F (campanita) para cable coaxial RG59, con anillo suelto. Acabado dorado.
+
+
+Sku: 203-015
+Producto: Juego de dos conectores macho tipo F (campanita) para cable RG6
+Descripcion: Juego de dos conectores macho (plug) tipo F (campanita) para cable coaxial RG6, con anillo suelto. Acabado dorado.
+
+
+Sku: 203-035
+Producto: Juego de dos conectores macho tipo F (campanita), con anillo largo, para cable RG6
+Descripcion: Juego de dos conectores macho (plug) tipo F para cable coaxial RG6, con anillo largo integrado. Acabado dorado.
+
+
+Sku: 203-038
+Producto: Juego de dos conectores macho tipo F para cable RG6, con empaque y anillo
+Descripcion: Juego de dos conectores macho (plug) tipo F para cable coaxial RG6, con empaque contra agua, gel de sellado exterior, anillo integrado y tuerca reforzada. Acabado dorado.
+
+
+Sku: 203-039
+Producto: Juego de dos conectores macho tipo F para cable RG6, de enroscar
+Descripcion: Juego de dos conectores macho (plug) tipo F para cable coaxial RG6, con anillo integrado de enroscar. Acabado dorado.
+
+
+Sku: 203-040
+Producto: Juego de dos conectores macho tipo F para cable RG59, de enroscar
+Descripcion: Juego de dos conectores macho (plug) tipo F para cable coaxial RG59, con anillo integrado de enroscar. Acabado dorado.
+
+
+Sku: 203-050
+Producto: Juego de 2 coples jack a jack tipo F para conectores RG59, recubiertos de oro
+Descripcion: Juego de dos barriles (cople) sencillos, para unir conectores macho (plug) tipo F de cable coaxial RG59. Acabado dorado.
+
+
+Sku: 203-080
+Producto: Juego de dos adaptadores con tres conectores hembras a tres conectores hembras RCA
+Descripcion: Juego de dos adaptadores con tres conectores hembra (jack) RCA a tres conectores hembra (jack) RCA. Fabricados en plástico color negro y acabado dorado.
+
+
+Sku: 203-810
+Producto: Adaptador con conectores HDMI® macho a hembra de 90°
+Descripcion: Adaptador con conectores que incorporan tecnología HDMI® jack (hembra) a plug (macho) con ángulo de 90°. Es la solución perfecta para poder instalar tu pantalla HD, bluray, DVD o equipo con salida digital, junto a la pared sin que se dañe el cable. Fabricado en inyección de plástico color negro con conector en acabado oro Premium.HDMI, the HDMI logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.
+
+
+Sku: 203-815
+Producto: Adaptador HDMI® giratorio
+Descripcion: Adaptador con conectores que incorporan tecnología HDMI*® jack (hembra) a plug (macho) con giro de 180°. Es ideal para conectar equipos como pantallas, bluray*, DVD*s y más cuando están muy cerca a la pared, para aprovechar mejor los espacios y para evitar dañar el cable. Está fabricado en inyección de plástico en color negro con conectores con acabado oro Premium.HDMI*, the HDMI* logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI* Licensing LLC in the United States and other countries.
+
+
+Sku: 203-820
+Producto: Cople HDMI®
+Descripcion: Utiliza este cople para unir 2 cables HDMI*® y lograr más longitud, así podrás conectar tus dispositivos a más distancia. Tiene conectores hembra en ambos extremos. Para su óptimo desempeño se recomienda utilizar cables HDMI*® de hasta 15 metros de longitud calibre 24 AWG y de hasta 7 metros de longitud calibre 28 AWG.Está fabricado en inyección de plástico de alta resistencia, color negro.Su tamaño es compacto y discreto.
+
+
+Sku: 205-010
+Producto: Cable coaxial RG59 con 2 conectores tipo F de rosca, de 90 cm
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de rosca, de 90 cm de largo.
+
+
+Sku: 205-015
+Producto: Cable coaxial RG59 con conectores tipo F de rosca, de 1,8 m
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de rosca, de 1,8 m de largo.
+
+
+Sku: 205-020
+Producto: Cable coaxial RG59 con 2 conectores tipo F de rosca, de 3,6 m
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de rosca, de 3,6 m de largo.
+
+
+Sku: 205-030
+Producto: Cable coaxial RG59 con conectores tipo F de rosca, de 7,6 m
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de rosca, de 7,6 m de largo.
+
+
+Sku: 205-110
+Producto: Cable coaxial RG59 con 2 conectores tipo F de presión, de 90 cm
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de presión, de 90 cm de largo.
+
+
+Sku: 205-115
+Producto: Cable coaxial RG59 con 2 conectores tipo F de presión, de 1,8 m
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de presión, de 1,8 m de largo.
+
+
+Sku: 205-120
+Producto: Cable coaxial RG59 con 2 conectores tipo F de presión, de 3,6 m
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de presión, de 3,6 m de largo.
+
+
+Sku: 205-215
+Producto: Cable coaxial RG59 con 2 conectores tipo F de rosca, recubiertos de oro, de 1,8 m
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de rosca, recubiertos de oro, de 1,8 m de largo.
+
+
+Sku: 205-315
+Producto: Cable coaxial RG59 con 2 conectores tipo F de presión, recubiertos de oro, de 1,8 m
+Descripcion: Cable de video (coaxial RG59) con 2 conectores tipo F de presión, recubiertos de oro, de 1,8 m de largo.
+
+
+Sku: 205-527
+Producto: Cable coaxial RG58 con conectores BNC, de 1,8 m
+Descripcion: Cable de video (coaxial RG58) con 2 conectores tipo BNC, de 1,8 m de largo.
+
+
+Sku: 206-105
+Producto: Adaptador con conector hembra S-Video a macho RCA
+Descripcion: Adaptador con conector hembra (jack) S-Video a conector macho (plug) RCA, acabado en oro, con cubierta de PVC negro.
+
+
+Sku: 206-110
+Producto: Cable Y de macho S-Video a 2 hembras S-Video
+Descripcion: Cable Y con dos conectores hembra (jack) S-Video a un conector macho (plug) S-Video. Ideal para enviar una señal de video a 2 monitores o equipos diferentes, de manera económica y con una excelente calidad de imagen.
+
+
+Sku: 206-150
+Producto: Receptor infrarrojo de control remoto
+Descripcion: Receptor infrarrojo para decodificador de TV por cable o satelital que permite controlar sus equipos a distancia, desde su control remoto, sin necesidad de moverse de habitación. Está encapsulado en plástico para mayor protección y durabilidad.
+
+
+Sku: 206-246
+Producto: Cable con plug 3.5 mm a 3 plugs RCA para videocámara, de 1,8 m
+Descripcion: Cable para videocámara, con conector macho (plug) de 3,5 mm a 3 conectores macho (plug) RCA, con cubierta de PVC negro. Mide 1,8 m y se utiliza para ver en un monitor o televisión tu videocámara.
+
+
+Sku: 206-248
+Producto: Cable de Audio/Video para videocámara sony
+Descripcion: Cable para transferir audio y video compatible con videocámaras de la marca sony de formatos Micro MV y Mini DV. Tiene conector macho (plug) de 10 pines a video compuesto (RCA) o  s-video, para poder conectar la videocámara a la mayoría de las televisiones actuales y ver tus fotos o videos en tamaño grande o en presentaciones que disfrutarás con toda tu familia.Cable NO compatible con Sony DCR-PC330 Mini DV
+
+
+Sku: 206-250
+Producto: Cable de 2 plugs RCA a 2 plugs RCA, recubiertos de oro, de 1,8 m
+Descripcion: Cable de audio y video monoaural, con dos conectores macho (plug) RCA a dos conectores macho (plug) RCA recubiertos de oro para mejor calidad de señal. Su cable es coaxial RG59 y mide 1,8 m.
+
+
+Sku: 206-275
+Producto: Cable RCA de audio y video con conectores en oro, de 3,6 m
+Descripcion: Cable de audio y video estéreo, con tres conectores macho (plug) RCA a tres conectores macho (plug) RCA recubiertos de oro para mejor calidad de señal. Su cable es coaxial RG59 y mide 1,8 m.
+
+
+Sku: 206-276
+Producto: Cable RCA de audio y video con conectores niquelados, de 1,8 m
+Descripcion: Cable de audio y video estéreo, con tres conectores macho (plug) RCA a tres conectores macho (plug) RCA. Su cable es coaxial RG59 y mide 1,8 m.
+
+
+Sku: 206-280
+Producto: Cable de S-Video con conectores dorados, de 1,8 m
+Descripcion: Cable de video, con dos conectores macho (plug) S-Video de 4 pines, recubiertos de oro, de 1,8 m. Está totalmente blindado para evitar interferencias, tiene cubierta de PVC flexible y se utiliza para equipos con conector S-Video como videocassetteras, televisión vía satélite, videocámaras y DVD.
+
+
+Sku: 206-285
+Producto: Cable de S-Video macho a macho, recubierto de oro, de 3,6 m
+Descripcion: Cable de video, con dos conectores macho (plug) S-Video de 4 pines, recubiertos de oro, de 3,6 m. Está totalmente blindado para evitar interferencias, tiene cubierta de PVC flexible y se utiliza para equipos con conector S-Video como videocassetteras, televisión vía satélite, videocámaras y DVD.
+
+
+Sku: 206-300
+Producto: Cable de Audio/Video para Sony playstation, de 2 m
+Descripcion: Cable para videojuego Sony playstation, de 2 m de largo.
+
+
+Sku: 206-350
+Producto: Cable de alta definición de Audio/Video para playstation 3, compatible con playstation 2, de 1,8 m
+Descripcion: Cable de video componente o video compuesto de alta definición (HDTV), con seis conectores macho (plug) RCA a salida de video para playstation 3, compatible con playstation 2. Mide 1,8 m. Fabricado con los mejores materiales y la más avanzada tecnología, para ofrecer una calidad inigualable en audio y video, logrando colores reales y gráficos espectaculares con sonido estéreo, al solo conectar la consola de video juegos a la pantalla o monitor por medio de la entrada de video componente. Elimina la interferencia gracias al cable blindado y los conectores recubiertos en oro, permitiendo una conexión sencilla y altamente confiable, incluso con una TV convencional por medio del cable de video compuesto.
+
+
+Sku: 206-360
+Producto: Cable de alta definición de Audio/Video compatible con xbox 360, de 1,8 m
+Descripcion: Cable de video componente o video compuesto de alta definición (HDTV), con seis conectores macho (plug) RCA a salida de video para xbox 360. Mide 1,8 m. Fabricado con los mejores materiales y la más avanzada tecnología, para ofrecer una calidad inigualable en audio y video, logrando colores reales y gráficos espectaculares, tiene conector óptico tipo Toslink para sonido digital y conectores RCA para sonido estéreo. Elimina la interferencia gracias al cable blindado y los conectores recubiertos en oro, permitiendo una conexión sencilla y altamente confiable, incluso con una TV convencional por medio del cable de video compuesto.
+
+
+Sku: 206-370
+Producto: Cable de video componente de alta definición (HDTV), compatible con nintendo wii, de 1,8 m
+Descripcion: Cable de video componente de alta definición (HDTV), con cinco conectores macho (plug) RCA a salida de video para nintendo wii. Mide 1,8 m. Fabricado con los mejores materiales y la más avanzada tecnología, para ofrecer una calidad inigualable en audio y video, logrando colores reales y gráficos espectaculares con sonido estéreo, al solo conectar la consola de video juegos a la pantalla o monitor por medio de la entrada de video componente. Elimina la interferencia gracias al cable blindado y los conectores recubiertos en oro, permitiendo una conexión sencilla y altamente confiable.
+
+
+Sku: 206-372
+Producto: Cable de video compuesto de alta definición (HDTV), compatible con nintendo wii, de 1,8 m
+Descripcion: Cable de video compuesto de alta definición (HDTV), con tres conectores macho (plug) RCA a salida de video para nintendo wii. Mide 1,8 m. Fabricado con los mejores materiales y la más avanzada tecnología, para ofrecer una excelente calidad en audio y video, logrando gráficos espectaculares con sonido estéreo, al solo conectar la consola de video juegos a cualquier TV o monitor por medio de la entrada de video compuesto. Elimina la interferencia gracias al cable blindado y los conectores recubiertos en oro, permitiendo una conexión sencilla y altamente confiable.
+
+
+Sku: 206-400
+Producto: Cable de Audio/Video retráctil, compatible con ipod
+Descripcion: Cable de Audio/Video retráctil compatible con ipod, con tres conectores macho (plug) RCA a un conector macho (plug) de 3,5 mm. Sirve para enviar video, fotografías o música de tu ipod, reproductor MP3, DVD, CD o cualquier equipo que tenga salida hembra de 3,5 mm, a una televisión o modular con entradas auxiliares.
+
+
+Sku: 206-803
+Producto: Cable con conectores HDMI&reg; macho a macho, de 90 cm
+Descripcion: Cable con conectores HDMI® (High Definition Multimedia Interface) macho a macho, diseñado para conectar cualquier fuente de audio o video, (receptor de televisión digital, DVD, receptores de Audio/Video de HDTV, consolas de videojuego, Blu-Ray) a un monitor de Audio/Video, como un televisor de alta definición (HDTV) o sistemas de teatro en casa (Home Theater). Está fabricado en PVC de color negro y su longitud es de 90 cm.HDMI, the HDMI logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.
+
+
+Sku: 206-805
+Producto: Cable con conectores HDMI® macho a macho de 1,8m
+Descripcion: Cable con conectores HDMI® (High Definition Multimedia Interface) macho a macho, diseñado para conectar cualquier fuente de audio o video (receptor de televisión digital, DVD, receptores de Audio/Video de HDTV, consolas de videojuego, Blu-Ray) a un monitor de Audio/Video, como un televisor de alta definición (HDTV) o sistemas de teatro en casa (Home Theater). Está fabricado en PVC de color negro y su longitud es de 1,8 m.HDMI, the HDMI logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.
+
+
+Sku: 206-806
+Producto: Cable con conectores HDMI&reg; macho a macho, de 1,8 m
+Descripcion: Cable con conectores HDMI® (High Definition Multimedia Interface) macho a macho, diseñado para conectar cualquier fuente de audio o video (receptor de televisión digital, DVD, receptores de Audio/Video de HDTV, PlayStation 3, Blu-Ray) a un monitor de Audio/Video, como un televisor de alta definición (HDTV). Está fabricado en PVC de color negro y su longitud es de 1,8 m. HDMI, the HDMI logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.
+
+
+Sku: 206-808
+Producto: Cable HDMI® de 1,8 m con conectores ajustables en ángulo
+Descripcion: Utiliza este cable HDMI para conectar tus dispositivos digitales, gracias a su ángulo ajustable es perfecto si el espacio detrás de tu pantalla o detrás de los aparatos es reducido.
+Su conector puede girar 180° sobre su eje o doblarse 90° hacia arriba o abajo, estos ajustes te permiten colocarlo en diferentes posiciones que se adaptan a cualquier circunstancia de instalación. Tendrás la facilidad de realizar cableados mucho más estéticos y acomodar tus dispositivos más cerca de la pared.
+La conexión de tus dispositivos y el acomodo del cable serán sencillos y prácticos, evitando dobleces en el cable que pudieran ocasionarle algún daño. 
+Soporta resoluciones Full HD 1080p, así tendrás siempre la mejor calidad de imagen y sonido digital en tu pantalla. Conecta tu Blu-Ray, consola de videojuegos o Home Theater. 
+Descubre que en Steren tenemos las mejores soluciones en electrónica. Continúa navegando y checa todos los accesorios HDMI que tenemos para tus conexiones e instalaciones.
+
+
+Sku: 206-826
+Producto: Cable HDMI® a micro HDMI®, de 1,8 m
+Descripcion: Este cable es especial para transmitir audio y video con calidad digital desde un smartphone, tablet o cámara fotográfica hacia tu pantalla. Así podrás ver en más pulgadas y con resolución Full HD 1080p todo el contenido multimedia almacenado en tus dispositivos. 
+El cable mide 1.8 metros, está recubierto con PVC de alta resistencia que evita al máximo daños por manipulación, además sus conectores y pines recubiertos de oro garantizan la correcta velocidad y transmisión de audio y video. 
+En Steren encuentra una gran variedad de cables HDMI, seguro tenemos el que buscas. Recuerda que en Steren tienda en Línea hacemos envío a todo México y si pides desde el DF o área metropolitana puedes pagar en efectivo al recibir.
+
+
+Sku: 206-843
+Producto: Cable HDMI® con conectores niquelados, de 90 cm
+Descripcion: Este cable HDMI* transmite contenido de audio y video digital alta definición Ful HD 1 080p. Su longitud es de 90 centímetros. El material que recubre el cable y los extremos tienen forro de PVC reforzado, esto lo hace más robusto y con más resistencia a daños por manipulación.
+Sus conectores tienen acabado niquelado que los hace resistentes y previene el desgaste por corrosión.
+
+
+Sku: 206-846
+Producto: Cable HDMI® con conectores niquelados, de 1,8 m
+Descripcion: Transmite la señal digital desde tus dispositivos HDMI* hasta tu pantalla y disfruta tus películas, videojuegos y programas preferidos con gran calidad en imagen y sonido. 
+Soporta resolución en alta definición 1080p así como formato 3D, además puede transmitir contenido Ethernet, por lo que si utilizas equipos que tengan conexión alámbrica a Internet, ya no necesitarás conectar un cable adicional. 
+Está fabricado de forma robusta, con recubrimiento de PVC que le da fuerza y resistencia. Sus conectores son niquelados que los hacen altamente resistentes a la corrosión y posibles golpes accidentales. 
+Continúa navegando en nuestro catálogo y descubre todos los accesorios HDMI* que te ayudarán a realizar una instalación impecable. Recuerda que llevamos los productos hasta la puerta de tu casa.
+
+
+Sku: 206-850
+Producto: Cable HDMI® de 20 m
+Descripcion: Con este cable HDMI* de 20 metros realiza instalaciones profesionales y transmite contenido digital a gran distancia. Es ideal para negocios como hoteles, bares o  restaurantes en donde se necesitan realizar conexiones alejadas. 
+Soporta resoluciones Full HD 1080p. Su fabricación es robusta, recubierto de PVC que lo hace altamente resistente a daños por manipulación. Sus conectores y pines tienen acabado en oro que garantizan la óptima velocidad y transmisión de audio y video. 
+Sus materiales de alta calidad permiten que la señal siempre sea constante y no haya pérdida a pesar de la distancia. 
+Lo mejor para tus instalaciones de audio y video digital lo encuentras en Steren. Descubre la gran variedad de accesorios HDMI* que tenemos para ti. Recuerda que si compras desde el DF o área metropolitana puedes pagar en efectivo al recibir.
+
+
+Sku: 206-880
+Producto: Cable HDMI® a mini HDMI®, de 1,8 m
+Descripcion: Este cable es ideal para conectar dispositivos móviles como tablets, smartphones o cámaras digitales a pantallas o monitores para poder ver en un tamaño más grande todo tu contenido almacenado en ellos. Soporta resolución de alta definición (Full HD 1080p) así que todo lo que veas será con gran calidad de imagen. 
+Tiene longitud de 1,8 metros y está recubierto de PVC que lo hace resistente a dobleces o estirones accidentales. Sus conectores tienen acabado en oro para que la correcta transmisión y velocidad de datos esté garantizada. 
+Recuerda que en Steren encuentras una amplia variedad de cables HDMI y de video para cualquier solución que necesites. Tenemos envío a todo México si compras en Steren Tienda en Línea.
+
+
+Sku: 206-910
+Producto: Cable HDMI® macho a DVI-D macho, de 3 m
+Descripcion: Cable con conector macho DVI-D (Digital Visual Interface-Digital) a conector que incorpora tecnología  HDMI® (High Definition Multimedia Interface) macho. Funciona para conectar equipos de video de alta calidad, como receptores de televisión digital, reproductores de DVD o de Audio/Video, a un monitor de Audio/Video como televisores de alta definición (plasma o LCD). Fabricado en PVC de color negro con conectores moldeados y su longitud es de 3 m.HDMI, the HDMI logo, and High Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.
+
+
+Sku: 206-946
+Producto: Cable Elite HDMI® 4K, reforzado, de 1,8 m
+Descripcion: Explota al máximo la tecnología HDMI y obtén imágenes y sonidos con la más alta calidad digital. Transmite audio y video en ultra alta definición 4K y disfruta todo el potencial de tu pantalla. 
+Este cable soporta 3 espacios adicionales de color por lo que la gama de matices que puede procesar es mucho más amplia, dándote una mejor experiencia visual en películas, videos o fotografías. 
+Tiene la capacidad de enviar contenido Ethernet, por lo que será más sencillo conectar tus dispositivos que tienen acceso a Internet, como Blu-Ray, consola de videojuegos o Home Theater, ya que evitarás conectar un cable adicional. 
+Soporta video en 3D, así que podrás conectar cualquier dispositivo que envíe imágenes en este formato y disfrutarlas en tu pantalla. Incluye un canal de retorno de audio por lo que ya no habrá necesidad de conectar un cable más desde tu pantalla a tu sistema de sonido. 
+Este cable está recubierto con PVC reforzado por lo que tiene excelente resistencia a daños por manipulación, además sus conectores tienen acabado en oro, así que la velocidad y transmisión de datos, sin pérdida de señal, están garantizados. 
+En Steren tenemos una gran variedad de productos HDMI que seguro cubren la necesidad que requieres. Compra ahora tu cable HDMI 4K y disfruta de la ultra alta definición al máximo.
+
+
+Sku: 206-956
+Producto: Cable DVI-D Dual Link de 24 pines, de 1,8 m
+Descripcion: Cable DVI-D Dual Link macho a macho de 24 pines. Funciona para transmisión de señal de video digital, para señales sencillas (Single Link) y señales duales (Dual Link), con velocidad de transferencia de hasta 4,95 Gbps y 9,9 Gbps respectivamente. Soporta resoluciones de 1920 x 1080 hasta 2048 x 1536, es ideal para monitores LCD, pantallas de plasma, proyectores, televisores de alta definicion (HDTV) y es compatible con el formato digital de DVI. Su longitud es de 1,8 m.
+
+
+Sku: 207-300
+Producto: Adaptador para Sony PlayStation, con salida tipo F
+Descripcion: Adaptador para Sony PlayStation con salida tipo F. Cambia automáticamente de la televisión al videojuego.
+
+
+Sku: 207-330
+Producto: Mini convertidor de RCA a coaxial
+Descripcion: Mini convertidor de Audio/Video (Modulador de RF) de RCA a entrada tipo F. Usalo para conectar cualquier dispositivo con salida de RCA (DVD, TV de paga, videocassettera, videojuego, etc.) a una TV con entrada tipo F. Se ajusta únicamente al canal 3 y se puede alimentar con dos pilas tamaño AA o con eliminador a 3 Vcc, no incluidos.Las salidas RCA son las que tienen colores blanco, rojo y amarillo. Las tipo F son las que comúmnente se conocen como coaxial. Con este convertidor, podrás seguir utilizando los modernos dispositivos de video en una televisión antigua que sólo tiene una entrada.
+
+
+Sku: 207-340
+Producto: Convertidor RCA a coaxial
+Descripcion: Con este convertidor (modulador) podrás conectar equipos A/V (RCA) como decodificadores, DVD, consolas de videojuegos, videocaseteras, entre otros, a televisores que tengan solo entrada coaxial (RF).
+El audio y video son transmitidos a través del canal 3 o 4. 
+Incorpora una entrada coaxial para no perder la conexión de la antena aérea y sigas disfrutando de TV abierta. 
+
+
+Sku: 207-350
+Producto: Convertidor de RCA a coaxial con ajuste para canal 3 ó 4
+Descripcion: Convertidor de Audio/Video (Modulador de RF) de RCA a entrada tipo F. Úsalo para conectar cualquier dispositivo con salida de RCA (DVD, TV de paga, videocassettera, videojuego, etc.) a una TV con entrada tipo F. Se ajusta a los canales 3 y 4. Las salidas RCA son las que tienen colores blanco, rojo y amarillo. Las tipo F son las que comúnmente se conocen como coaxial. Con este convertidor, podrás seguir utilizando los modernos dispositivos de video en una televisión antigua que sólo tiene una entrada.
+
+
+Sku: 207-360
+Producto: Convertidor de 3 entradas RCA y S-Video a coaxial
+Descripcion: Convertidor de Audio/Video de 3 entradas RCA o S-Video a coaxial, para conectar hasta tres equipos como DVD, videojuego, videocassettera, o TV de paga, a una televisión que solo cuente con entrada coaxial o tipo F.
+
+
+Sku: 207-370
+Producto: Convertidor de 3 entradas RCA y S-Video a coaxial, con switch ABC
+Descripcion: Convertidor de Audio/Video de 3 entradas RCA o S-Video a coaxial, con switch ABC, para conectar hasta tres equipos como DVD, videojuego, videocassettera, o TV de paga, a una televisión que solo cuente con entrada coaxial o tipo F. Se ajusta a los canales 3 y 4.
+
+
+Sku: 207-390
+Producto: Convertidor multicanal de 3 entradas RCA a coaxial
+Descripcion: Convertidor multicanal de 3 entradas RCA a coaxial. Permite que una señal en RCA (DVD, videocassettera, TV de paga o circuito cerrado) se convierta a un canal de televisión (coaxial), con lo cual podrás agregar canales adicionales a tu red de televisión y podrás disfrutar de tus equipos en cada uno, ya que se pueden conectar hasta 27 equipos en cascada a un solo cable coaxial y verlos en diferentes canales. Tiene selector de canal para convertir a coaxial (modulación), que van desde el canal 14 al 69 y con su pantalla luminosa puedes ver el canal seleccionado.
