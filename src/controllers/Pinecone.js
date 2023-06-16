@@ -17,7 +17,7 @@ const make = async(question) => {
     });
     
     const pineconeIndex = client.Index(process.env.PINECONE_INDEX);
-    console.log(process.env.PINECONE_API_KEY, process.env.PINECONE_ENVIRONMENT, process.env.PINECONE_INDEX );
+    console.log(process.env.API_KEY_OPEN_AI, process.env.PINECONE_ENVIRONMENT, process.env.PINECONE_INDEX );
       const vectorStore = await PineconeStore.fromExistingIndex(
         new OpenAIEmbeddings({openAIApiKey:process.env.API_KEY_OPEN_AI}),
         { pineconeIndex }
