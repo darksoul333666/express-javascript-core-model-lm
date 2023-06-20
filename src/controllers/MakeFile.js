@@ -86,7 +86,7 @@ const upload = async(arr) => {
 
     })
         
-    await PineconeStore.fromDocuments(docs, new OpenAIEmbeddings({openAIApiKey:"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"}), {
+    await PineconeStore.fromDocuments(docs, new OpenAIEmbeddings({openAIApiKey:"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"}), {
       pineconeIndex,
     });
     console.log("exitoso");

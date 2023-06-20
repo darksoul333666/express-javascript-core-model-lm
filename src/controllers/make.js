@@ -1,6 +1,6 @@
 import fs from 'fs';
 const generateStringArray = () => {
-    const filePath = '../../catalogoSteren.txt'; // Reemplaza esto con la ruta y el nombre de tu archivo
+    const filePath = '../../camaras.txt'; // Reemplaza esto con la ruta y el nombre de tu archivo
 
   const data = fs.readFileSync(filePath, 'utf8');
   const lines = data.split('\n');
