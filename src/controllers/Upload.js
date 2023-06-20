@@ -18,22 +18,24 @@ await client.init({
 const pineconeIndex = client.Index(process.env.PINECONE_INDEX);
 const docs = [];
 returnArr().forEach(element => {
-    docs.push(
-        new Document({
-            metadata: { sku: element.sku },
-            pageContent: element.data,
-          })
-    )
+
+  console.log(concatenateValues(element));
+    // docs.push(
+    //     new Document({
+    //         metadata: { sku: element.sku },
+    //         pageContent: element.data,
+    //       })
+    // )
 })
 
-console.log(docs);
-
-await PineconeStore.fromDocuments(docs, new OpenAIEmbeddings(), {
-  pineconeIndex,
-});
+// await PineconeStore.fromDocuments(docs, new OpenAIEmbeddings(), {
+//   pineconeIndex,
+// });
 } catch (error) {
     console.log(error);
 }
 }
+
+
 
 export default upload

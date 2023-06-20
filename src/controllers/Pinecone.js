@@ -24,12 +24,12 @@ const make = async(question) => {
       );
         const model = new OpenAI({openAIApiKey:process.env.API_KEY_OPEN_AI});
         const chain = VectorDBQAChain.fromLLM(model, vectorStore, {
-          k: 1,
+          k: 5,
           returnSourceDocuments: true,
         });
         
 
-        const response = await chain.call({  query: question });
+        const response = await chain.call({  query: question.toLowerCase() });
         console.log(response);
       resolve(response.text)
     } catch (error) {
