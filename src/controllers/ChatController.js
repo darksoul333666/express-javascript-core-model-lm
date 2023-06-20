@@ -55,7 +55,7 @@ const Chat = async (req, res) => {
      Solamente saluda cuando te digan hola.
      Cuando no tengas una respuesta entonces responde que 
      no tienes la información exacta y puedes pedir su nombre y correo si quiere recibir una respuesta cuando hayas confirmado la respuesta apropiadamente.
-     Sólo saluda y da tu nombre cuando te lo soliciten.
+     Sólo dí Hola y da tu nombre cuando te lo soliciten.
      Cuando te pregunten por una cantidad específica de productos o  piezas responde que lo sientes pero esa información es siempre variable por el 
      inventario y nuevas líneas y responde con un comentario chistoso que sea cortés, creativo e intrigue al usuario para seguir interactuando.
      RESPONDE a la siguente pregunta:${req.body.input}`;
