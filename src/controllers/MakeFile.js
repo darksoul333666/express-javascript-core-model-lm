@@ -5,7 +5,7 @@ import { Document } from "langchain/document";
 import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 import { PineconeStore } from "langchain/vectorstores/pinecone";
 import { v4 as uuidv4 } from 'uuid';
-
+import generateStringArray from './make.js';
 dotenv.config();
 const readFileAndConvertToArray = (filename) => {
   const fileContent = fs.readFileSync(filename, 'utf8');
@@ -48,19 +48,21 @@ const readFileAndConvertToArray = (filename) => {
 
 
 const returnArr = () => {
-    let arr = [];
-    const filename = '../../catalogo.txt'; // Reemplaza esto con la ruta y el nombre de tu archivo
-    const paragraphObjectsArray = readFileAndConvertToArray(filename);
-    for (const paragraphObject of paragraphObjectsArray) {
-        // console.log(paragraphObject.Sku);
-        // console.log(paragraphObject.Sku.slice(5, paragraphObject.Sku.length));
-        let sku = paragraphObject.Sku.slice(5, paragraphObject.Sku.length);
-        let descripcion = paragraphObject.Descripcion.slice(12, paragraphObject.Descripcion.length);
-        let producto = paragraphObject.Producto.slice(9, paragraphObject.Producto.length);
-        arr.push({sku: sku , data: `${sku} ${producto} ${descripcion} ` });
-      }
-    //return arr);
-    upload(arr)
+    // let arr = [];
+    // const filename = '../../catalogo.txt'; // Reemplaza esto con la ruta y el nombre de tu archivo
+    // const paragraphObjectsArray = readFileAndConvertToArray(filename);
+    // for (const paragraphObject of paragraphObjectsArray) {
+    //     // console.log(paragraphObject.Sku);
+    //     // console.log(paragraphObject.Sku.slice(5, paragraphObject.Sku.length));
+    //     let sku = paragraphObject.Sku.slice(5, paragraphObject.Sku.length);
+    //     let descripcion = paragraphObject.Descripcion.slice(12, paragraphObject.Descripcion.length);
+    //     let producto = paragraphObject.Producto.slice(9, paragraphObject.Producto.length);
+    //     arr.push({sku: sku , data: `${sku} ${producto} ${descripcion} ` });
+    //   }
+    // //return arr);
+
+  console.log(generateStringArray());
+    upload(generateStringArray())
 
 }
 
@@ -69,7 +71,7 @@ const upload = async(arr) => {
         const client = new PineconeClient();
 
     await client.init({
-      apiKey: "eb053869-fd22-4814-bfc6-e61814333af6",
+      apiKey: "3557c927-c5dd-4e17-af59-c7376d7d2c6b",
       environment: "us-west4-gcp-free",
     });
     const pineconeIndex = client.Index("ai");
@@ -77,15 +79,14 @@ const upload = async(arr) => {
     arr.forEach(element => {
         docs.push(
             new Document({
-                metadata: { sku: element.sku },
-                pageContent: element.data,
+                metadata: { _id: uuidv4() },
+                pageContent: element,
               })
         )
 
-        console.log(element.sku);
     })
         
-    await PineconeStore.fromDocuments(docs, new OpenAIEmbeddings({openAIApiKey:"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"}), {
+    await PineconeStore.fromDocuments(docs, new OpenAIEmbeddings({openAIApiKey:"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"}), {
       pineconeIndex,
     });
     console.log("exitoso");

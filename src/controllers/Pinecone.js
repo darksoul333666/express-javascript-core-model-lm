@@ -24,7 +24,7 @@ const make = async(question) => {
       );
         const model = new OpenAI({openAIApiKey:process.env.API_KEY_OPEN_AI});
         const chain = VectorDBQAChain.fromLLM(model, vectorStore, {
-          k: 5,
+          k: 1,
           returnSourceDocuments: true,
         });
         
@@ -33,7 +33,8 @@ const make = async(question) => {
         console.log(response);
       resolve(response.text)
     } catch (error) {
-      console.log(error.response.data.error);
+      console.log(error);
+      console.log(error.response);
       reject(error.response)
     }
   })
