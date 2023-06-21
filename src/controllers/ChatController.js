@@ -1,67 +1,23 @@
-import { Templates, Personalities, Origins } from '../utils/templates.js';
-import tokenizer from 'gpt-tokenizer';
-import { Configuration, OpenAIApi } from 'openai';
 import make from './Pinecone.js';
 
-const configuration = new Configuration({
-  apiKey: process.env.API_KEY_OPEN_AI,
-});
-
-const openai = new OpenAIApi(configuration);
-
-const limit = 2000;
-
-const getQueries = (queries, p, o, s, q) => {
-  let data = p + o + s + q;
-  let data2 = '';
-
-  queries.forEach((result, index) => {
-    if (tokenizer.isWithinTokenLimit(data + result.text, limit)) {
-      console.log(index);
-      console.log(index + '  ', result.text);
-      data += result.text;
-      data2 += result.text;
-    } else {
-      return;
-    }
-  });
-
-  return data2;
-};
-
-const makePrompt = (parameters) => {
-  const { description, style, data, input } = parameters;
-  const personification = `Personifícate conforme al siguiente texto: ${description}.`;
-  const origin = `Tu origen es el siguiente: ${Origins[0].text}`;
-  const styleResponse = `Tienes un estilo: ${style}. ${Personalities['Amigable'].descripcion}`;
-  const dataTraining = getQueries(data, personification, origin, styleResponse, input);
-  const training = `Usarás el siguiente texto como fuente de información, considera que es un catálogo de productos, cada uno tiene asignado un código formado por letras mayúsculas, seguidas de un guión y seguido por dígitos. Texto a analizar:${dataTraining}. `;
-  const question = `Finalmente responde a la pregunta: ${input}.`;
-
-  return personification + origin + styleResponse + training + question;
-};
 
 const Chat = async (req, res) => {
   try {
     let response; 
     const query = `
-    Actua como el robot de Steren. Tu nombre es Stebot, responde de manera amigable, siempre hablando de tu, y muy divertido y breve. 
-     Proveerás información basada en los documentos provistos. Habla siempre en español y si no encuentras una respuesta a las preguntas, 
-     responde exactamente: "hmmm, eso no me lo habían preguntado antes, pero estoy tomando nota para responderte muy pronto", y detente ahí. 
-     Rechaza cualquier consulta que no sea sobre la información provista.
-     Usa conversiones de costos a mxn, tanto los que te da el usuario como los que respondes.
-     Antes de responder, asegúrate de escribir y hablar siempre en español y responder siempre en 2da 
-     persona del singular a toda consulta de un usuario. 
-     Solamente saluda cuando te digan hola.
-     Cuando no tengas una respuesta entonces responde que 
-     no tienes la información exacta y puedes pedir su nombre y correo si quiere recibir una respuesta cuando hayas confirmado la respuesta apropiadamente.
-     Sólo dí Hola y da tu nombre cuando te lo soliciten.
-     Cuando te pregunten por una cantidad específica de productos o  piezas responde que lo sientes pero esa información es siempre variable por el 
-     inventario y nuevas líneas y responde con un comentario chistoso que sea cortés, creativo e intrigue al usuario para seguir interactuando.
-     RESPONDE a la siguente pregunta:${req.body.input}`;
-     response = await make(query);
+    Take on the role of Steren's AI assistant, known as Steeebot. Respond with a greeting only upon hearing 'hello',
+     and introduce yourself solely when asked for your name. Ensure all interactions are in english including prices 
+     and numbers. Maintain your replies in a friendly and informal tone. Aim for brevity and humor in your responses. 
+     Share information derived from provided documents only when there's at least a 95% certainty of its accuracy in 
+     answering the user’s query. If in doubt, ask for further details. If an answer eludes you, respond with: 
+     'Hmm, I've never been asked that before, but I'm taking note to get back to you very soon', and then request their 
+     name and email if they would like a follow-up when the appropriate answer is confirmed. Politely decline inquiries 
+     unrelated to the provided information. All cost references will be in Mexican pesos. When queried about specific 
+     quantities of products or items, express regret while explaining that such information frequently varies due to 
+     fluctuating inventory and the introduction of new lines. Lighten the situation with a polite, creative, and intriguing 
+     humorous comment to encourage continued interaction. RESPOND to the following question:${req.body.input}`;
 
-    // response =  makePrompt(req.body.input)
+    response = await make(query);
     res.json({
       success: true,
       message: 'response obtained',

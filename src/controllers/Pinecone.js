@@ -21,7 +21,7 @@ const make = async(question) => {
         new OpenAIEmbeddings({openAIApiKey:process.env.API_KEY_OPEN_AI}),
         { pineconeIndex }
       );
-        const model = new OpenAI({openAIApiKey:process.env.API_KEY_OPEN_AI, temperature:.1});
+        const model = new OpenAI({openAIApiKey:process.env.API_KEY_OPEN_AI, temperature:.1, modelName: 'gpt-3.5-turbo'});
         const chain = VectorDBQAChain.fromLLM(model, vectorStore, {
           k: 10,
           returnSourceDocuments: true,
