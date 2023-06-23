@@ -19,14 +19,14 @@ async function initializePineconeClient() {
 async function initializeVectorStore(client) {
     const pineconeIndex = client.Index('ai');
     const vectorStore = await PineconeStore.fromExistingIndex(
-        new OpenAIEmbeddings({ openAIApiKey: "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" }),
+        new OpenAIEmbeddings({ openAIApiKey: process.env.API_KEY_OPEN_AI }),
         { pineconeIndex }
     );
     return vectorStore;
 }
 
 async function initializeOpenAIModel() {
-    return new OpenAI({ openAIApiKey: "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", temperature: 0.1, modelName: 'gpt-3.5-turbo' });
+    return new OpenAI({ openAIApiKey: process.env.API_KEY_OPEN_AI, temperature: 0.1, modelName: 'gpt-3.5-turbo' });
 }
 
 async function runQuery(question) {
