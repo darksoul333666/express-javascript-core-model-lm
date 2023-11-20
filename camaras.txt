@@ -1,0 +1,227 @@
+Sku: CCTV-235
+Nombre: STARWARS
+Uso: INTEMPERIE
+Precio: 1590
+Gama: ALTA
+Sistema: WIFI
+Robotizada: ROBOTIZADA
+Movimiento: SEGUIDOR DE MOVIMIENTO
+Visión: VISIÓN NOC
+Calidad: 3 MPX
+Sugerencia de uso: GARAGE / PASILLO EXTERIOR / JARDÍN / PATIO
+
+Sku: CCTV-204
+Nombre: SIMPLE
+Uso: 
+Precio: 599
+Gama: BAJA
+Sistema: WIFI
+Robotizada: 
+Movimiento: DETECTOR DE MOV
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: OFICINA / COCINA
+
+Sku: CCTV-218
+Nombre: ROBOTITO
+Uso: 
+Precio: 799
+Gama: MEDIA
+Sistema: WIFI
+Robotizada: ROBOTIZADA
+Movimiento: SEGUIDOR DE MOVIMIENTO
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: SALA / ESTUDIO
+
+Sku: CCTV-219
+Nombre: EVA
+Uso: 
+Precio: 999
+Gama: MEDIA
+Sistema: WIFI
+Robotizada: ROBOTIZADA
+Movimiento: SEGUIDOR DE MOVIMIENTO
+Visión: VISIÓN NOC
+Calidad: 3 MPX
+Sugerencia de uso: SALA / ESTUDIO
+
+Sku: CCTV-232
+Nombre: 360
+Uso: 
+Precio: 999
+Gama: MEDIA
+Sistema: WIFI
+Robotizada: 
+Movimiento: DETECTOR DE MOV
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: SALA / ESTUDIO / PASILLO / COCINA
+
+Sku: CCTV-228
+Nombre: CAÑON EXTERIOR
+Uso: INTEMPERIE
+Precio: 1390
+Gama: ALTA
+Sistema: WIFI
+Robotizada: 
+Movimiento: DETECTOR DE MOV
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: GARAGE / PASILLO EXTERIOR / JARDÍN / PATIO
+
+Sku: CCTV-240
+Nombre: MAGNÉTICA
+Uso: 
+Precio: 1790
+Gama: ALTA
+Sistema: WIFI
+Robotizada: 
+Movimiento: DETECTOR DE MOV
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: PASILLO INTERIOR / COCINA / SALA
+
+Sku: CCTV-550
+Nombre: LA LÁMPARITA
+Uso: 
+Precio: 999
+Gama: MEDIA
+Sistema: WIFI
+Robotizada: 
+Movimiento: DETECTOR DE MOV
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: PASILLO INTERIOR / GARAGE
+
+Sku: CCTV-224
+Nombre: CAÑONCITO INTERIOR
+Uso: 
+Precio: 1190
+Gama: ALTA
+Sistema: WIFI
+Robotizada: 
+Movimiento: DETECTOR DE MOV
+Visión: VISIÓN NOC
+Calidad: 3 MPX
+Sugerencia de uso: PASILLO INTERIOR / COCINA / SALA
+
+Sku: CCTV-234
+Nombre: CASCO CON ANTENAS
+Uso: INTEMPERIE
+Precio: 1190
+Gama: ALTA
+Sistema: WIFI
+Robotizada: ROBOTIZADA
+Movimiento: SEGUIDOR DE MOVIMIENTO
+Visión: VISIÓN NOC
+Calidad: 3 MPX
+Sugerencia de uso: GARAGE / PASILLO EXTERIOR / JARDÍN / PATIO
+
+Sku: CCTV-238
+Nombre: FOQUITO
+Uso: 
+Precio: 999
+Gama: BAJA
+Sistema: WIFI
+Robotizada: ROBOTIZADA
+Movimiento: SEGUIDOR DE MOVIMIENTO
+Visión: VISIÓN NOC
+Calidad: 3 MPX
+Sugerencia de uso: PASILLO INTERIOR / COCINA / SALA /GARAGE
+
+Sku: CCTV-1120
+Nombre: EL OJO SAURON
+Uso: 
+Precio: 499
+Gama: BAJA
+Sistema: SISTEMA DVR
+Robotizada: 
+Movimiento: 
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: CUALQUIER LUGAR
+
+Sku: CCTV-1018
+Nombre: BALA
+Uso: INTEMPERIE
+Precio: 599
+Gama: BAJA
+Sistema: SISTEMA DVR
+Robotizada: 
+Movimiento: 
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: GARAGE / PASILLO EXTERIOR / JARDÍN / PATIO
+
+Sku: CCTV-1020
+Nombre: MINI BALA
+Uso: 
+Precio: 699
+Gama: ALTA
+Sistema: SISTEMA DVR
+Robotizada: 
+Movimiento: 
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: PASILLO INTERIOR / COCINA / SALA /GARAGE
+
+Sku: CCTV-1010
+Nombre: CUADRITO
+Uso: 
+Precio: 395
+Gama: BAJA
+Sistema: SISTEMA DVR
+Robotizada: 
+Movimiento: 
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: PASILLO INTERIOR / COCINA / SALA /GARAGE
+
+Sku: CCTV-844/HDD
+Nombre: DVR 4 CÁMARAS
+Uso: 
+Precio: 5990
+Gama: ALTA
+Sistema: SISTEMA DVR
+Robotizada: 
+Movimiento: 
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: CUALQUIER LUGAR
+"
+Sku: CCTV-848/HDD
+Nombre: DVR 8 CÁMARAS
+Uso: 
+Precio: 6990
+Gama: ALTA
+Sistema: SISTEMA DVR
+Robotizada: 
+Movimiento: 
+Visión: VISIÓN NOC
+Calidad: FULLHD
+Sugerencia de uso: CUALQUIER LUGAR
+
+Sku: CCTV-293
+Nombre: DUMMY DE CÁMARA
+Uso: INTEMPERIE
+Precio: 149
+Gama: COMPLEMENTO
+Sistema: 
+Robotizada: 
+Movimiento: 
+Visión: 
+Calidad: 
+Sugerencia de uso: CUALQUIER LUGAR
+
+Sku: CCTV-290
+Nombre: DUMMY DE CÁMARA TIPO BALA
+Uso: INTEMPERIE
+Precio: 149
+Gama: COMPLEMENTO
+Sistema: 
+Robotizada: 
+Movimiento: 
+Visión: 
+Calidad: 
+Sugerencia de uso: CUALQUIER LUGAR
